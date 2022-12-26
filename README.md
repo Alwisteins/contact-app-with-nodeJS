@@ -1,5 +1,5 @@
-INI ADALAH CONTACT APP SEDERHANA
-BERBASIS COMMAND LINE INTERFACE
+Ini adalah CONTACT-APP sederhana
+berbasis Command Line Interface
 
-SEBELUM MENJALANKAN FILE, JANGAN LUPA UNTUK
-MELAKUKAN PERINTAH npm install
+Sebelum menjalankan project ini, jangan lupa
+untuk melakukan perintah npm install pada terminal
